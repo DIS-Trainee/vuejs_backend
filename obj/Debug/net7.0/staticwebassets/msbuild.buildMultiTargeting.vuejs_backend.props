@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/vuejs_backend.props" />
+</Project>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2w9pP0joHFRaIlUUn3z0QGGOmgYzPJDh2UZVEN/7kGe6KY3e+d2OvmC4wWQibAzt0s7wcE6+Z5WYMsuRmkgrrw==",
+  "success": true,
+  "projectFilePath": "/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/vuejs_backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/dis_trainee_02/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/dis_trainee_02/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/dis_trainee_02/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/dis_trainee_02/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/dis_trainee_02/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/dis_trainee_02/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/dis_trainee_02/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
