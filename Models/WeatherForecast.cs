@@ -1,4 +1,4 @@
-namespace vuejs_backend;
+namespace vuejs_backend.Models;
 
 public class WeatherForecast
 {

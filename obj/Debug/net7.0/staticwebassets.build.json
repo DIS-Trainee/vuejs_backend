@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "L5B6b62qxdZQqIkvbp6eYZnl8Nbjejb+jhi/QyCnu9o=",
+  "Hash": "5VQD5c7PyAHTqeQpA+QxgIesbqwXfQE5udw+G5AZr/o=",
   "Source": "vuejs_backend",
   "BasePath": "_content/vuejs_backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "vuejs_backend/wwwroot",
+      "Source": "vuejs_backend",
+      "ContentRoot": "/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/wwwroot/",
+      "BasePath": "_content/vuejs_backend",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
