@@ -3,7 +3,7 @@ namespace vuejs_backend.Models
     public class PipeInfo
     {
         public int id { get; set; } 
-        public string tag_no { get; set; } 
+        public int tag_no { get; set; } 
         public double pipe_size { get; set; }
         public string pipe_location { get; set; } 
         public DateTime installation_date { get; set; } 

@@ -32,3 +32,9 @@
 /Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/obj/Debug/net7.0/vuejs_backend.genruntimeconfig.cache
 /Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/obj/Debug/net7.0/ref/vuejs_backend.dll
 /Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/vuejs_backend.staticwebassets.runtime.json
+/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/MySqlConnector.dll
+/Users/dis_trainee_02/Desktop/vuejs_backend/vuejs_backend/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
